@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **CP**
 
-- 👨‍💻 All of my projects are available at [https://swarajanand.netlify.app/](https://swarajanand.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://swarajanand.netlify.app/]([https://swarajanand.netlify.app/](https://swarajanand-swarajanands-projects.vercel.app/))
 
 - 📫 How to reach me **swrjnnd@gmail.com**
 
